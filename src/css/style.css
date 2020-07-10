@@ -1,0 +1,44 @@
+.header, .header2{
+    font-size: 22px;
+    font-family: Tahoma;
+    padding: 120px;
+    line-height: 1.5;
+}
+.header span{
+    display: block;
+}
+.header strong, .header2, .adv{
+    font-weight: 900;
+}
+.form-header{
+    font-family: tahoma;
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.form{
+    border: 5px #472cc3 solid;
+    padding: 20px;
+
+}
+.form input{
+    margin-top: 15px;
+}
+.form .btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.adv{
+    font-size: 16px;
+    font-family: Tahoma;    
+}
+.adv p{
+    padding: 15px;
+}
+.btn-2{
+    margin-top: 40px;
+}
+.photo{
+    padding-bottom: 30px;
+}
